@@ -1,9 +1,0 @@
-visor7seg   KEYWORD1
-write	KEYWORD3
-writeHex	KEYWORD3
-begin	KEYWORD2
-pinoPonto	KEYWORD1
-clear	KEYWORD2
-test    KEYWORD2
-decimalPoint	KEYWORD2
-loadingAnimation	KEYWORD3
